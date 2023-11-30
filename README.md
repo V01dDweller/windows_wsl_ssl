@@ -42,8 +42,8 @@ C:\Program Files\OpenSSH
 2. Create your first password database
 3. Add one or more password-protected ssh key entries, attach a public and private key to each one.
 4. Edit each entry:
-   - click `SSH Agent` in the left navigation
-   - check `Add key to agent when database is opened/unlocked`,
+   - Click `SSH Agent` in the left navigation
+   - Check `Add key to agent when database is opened/unlocked`,
    - Select the Private key attachment
 
 5. Click `[ OK ]`
